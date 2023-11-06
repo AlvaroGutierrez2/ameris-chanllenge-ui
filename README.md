@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
 
+## Prerequisites
+
+Install [Node.js](https://nodejs.org/download/release/v18.18.2/) which includes [Node Package Manager](https://docs.npmjs.com/getting-started)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
