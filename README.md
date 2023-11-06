@@ -4,11 +4,16 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Prerequisites
 
-Install [Node.js](https://nodejs.org/download/release/v18.18.2/) which includes [Node Package Manager](https://docs.npmjs.com/getting-started)
+- Install [Node.js](https://nodejs.org/download/release/v18.18.2/) which includes [Node Package Manager](https://docs.npmjs.com/getting-started)
 
-## Development server
+- Then install the Angular CLI globally:
+`npm install -g @angular/cli`
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Development application
+
+Run `npm install`
+
+An then Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
