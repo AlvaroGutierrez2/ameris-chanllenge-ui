@@ -1,4 +1,4 @@
-# ChanllengeUi
+# Ameris-Challange-UI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
 
@@ -9,14 +9,20 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - Then install the Angular CLI globally:
 `npm install -g @angular/cli`
 
-## Development application
+## Deployment application
 
 In the root folder run the next to command :
 
 1. Run `npm install`
-2. Run `ng serve` for a dev server.
+2. Run `ng serve`
 
-Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Then Navigate to `http://localhost:4200/` then you will see the ui interface of the application that
+contains the input for the Empoyee Id , button for searching and a grid that will show the employee's info.
+
+![UI image](https://github.com/AlvaroGutierrez2/ameris-chanllenge-ui/assets/148718348/04e16577-2622-4617-be34-cdc5356b8ff5)
+
+
+
 
 ## Code scaffolding
 
