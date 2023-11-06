@@ -11,9 +11,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development application
 
-Run `npm install`
+In the root folder run the next to command :
 
-An then Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+1. Run `npm install`
+2. Run `ng serve` for a dev server.
+
+Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
